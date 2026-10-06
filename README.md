@@ -1,2 +1,2 @@
-# Subham-wolfrider
+# Subham-Wolfrider
 This is my first git project
